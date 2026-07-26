@@ -1,0 +1,7 @@
+fastapi
+pyjwt
+psycopg[binary]
+redis
+boto3
+requests
+pydantic
